@@ -1,0 +1,11 @@
+.Logos-div{
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    margin-left: 50%;
+    margin-top: 150px;
+    position: absolute;
+}
+.logos-logo1{
+    margin-top: 40px;
+    fill: white;
+}

@@ -1,0 +1,74 @@
+.Header-buttons {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-left: 165px;
+}
+.Paypal-phone {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 75%;
+}
+.Paypal {
+  width: 135px;
+  height: 38px;
+  margin-top: 15px;
+}
+.header-h3 {
+  margin-left: 100px;
+}
+.schedule-button {
+  margin-left: auto;
+  margin-right: 165px;
+  border-radius: 20px;
+  border-radius: 24px;
+  background: #ba4270;
+  cursor: pointer;
+  width: 173px;
+  height: 48px;
+  flex-shrink: 0;
+  border: none;
+  color: white;
+  box-shadow: 10px 10px 25px -10px rgba(54, 83, 107, 0.25);
+}
+.schedule-button1 {
+  margin-right: 165px;
+  border-radius: 20px;
+  border-radius: 24px;
+  background: #ba4270;
+  cursor: pointer;
+  margin-left: -160px;
+  width: 173px;
+  height: 48px;
+  flex-shrink: 0;
+  border: none;
+  color: white;
+  box-shadow: 10px 10px 25px -10px rgba(54, 83, 107, 0.25);
+}
+.schedule-button:hover {
+  background: #da6d97;
+}
+.header-main_txt {
+  margin-left: 165px;
+}
+.header-input {
+  border: none;
+  border-radius: 24px;
+  background: #fbfcfe;
+  height: 48px;
+  width: 445px;
+  box-shadow: 10px 10px 25px -10px rgba(54, 83, 107, 0.25);
+}
+.header-input_div {
+  margin-top: -40px;
+}
+.paypal-h1 {
+  color: #36536b;
+  width: 546px;
+  height: 243px;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 72px; /* 100% */
+  letter-spacing: -0.554px;
+}
