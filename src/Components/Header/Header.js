@@ -1,5 +1,6 @@
 import React from "react";
 import "./Header.css";
+import NavBar from "../NavBar/NavBar";
 import iCon from "../../assets/shared/desktop/logo.svg";
 import ICon from "../../assets/home/desktop/illustration-phone-mockup.svg";
 
@@ -19,7 +20,7 @@ export default function Header() {
           Start building with our APIs for absolutely free.
         </h1>
         <div className="header-input_div">
-          <input type="email" className="header-input"  />
+          <input type="email" className="header-input" />
           <button className="schedule-button1">Schedule a Demo</button>
         </div>
       </div>

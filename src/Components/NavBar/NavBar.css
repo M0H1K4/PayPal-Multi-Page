@@ -1,0 +1,17 @@
+.Paypal2 {
+  width: 135px;
+  height: 38px;
+  margin-top: 15px;
+  fill: aliceblue;
+}
+.Footer-h3 {
+  margin-left: 100px;
+}
+.Footer-buttons {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-left: 165px;
+}
+
+ 

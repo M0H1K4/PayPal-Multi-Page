@@ -1,0 +1,33 @@
+.bolo-div {
+  display: flex;
+  margin-top: 50%;
+  margin-left: 300px;
+}
+.bolo-div1{
+    margin-left: 40px;
+}
+.bolo-img{
+    margin-left: 120px;
+}
+.bolo-h1 {
+  color: #36536b;
+  width: 350px;
+  text-align: center;
+  /* font-family: Public Sans; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 138.889% */
+  letter-spacing: -0.138px;
+}
+.bolo-p {
+  color: #6c8294;
+  width: 350px;
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; /* 166.667% */
+  letter-spacing: -0.115px;
+}
+

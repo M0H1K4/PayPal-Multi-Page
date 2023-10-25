@@ -1,0 +1,18 @@
+.terminal-div {
+  background-image: url("../../assets/home/desktop/illustration-easy-to-implement.svg");
+  background-repeat: no-repeat;
+  background-position: 100px 30%;
+  height: 284px;
+  margin-top: 150px;
+}
+.terminal-txts {
+  color: #36536b;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 40%;
+  width: 445px;
+}
+.terminal-h1 {
+  margin-top: 70px;
+}
